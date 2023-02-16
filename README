@@ -7,6 +7,6 @@ This code has patched with two patchs:
 
 just use：
 
-''' sh
+'''
 sudo make clean install
 '''
