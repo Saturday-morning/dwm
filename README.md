@@ -7,8 +7,5 @@ This code has patched with two patchs:
 
 just use：
 
-'''
-
 sudo make clean install
 
-'''
