@@ -9,3 +9,6 @@ just use：
 
 sudo make clean install
 
+
+Here are some extra files of my config
+https://github.com/Saturday-morning/dwm/releases/tag/0.01-alpha
