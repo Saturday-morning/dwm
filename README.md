@@ -19,3 +19,8 @@ autostart本来是打了，但是实际上根本找不到文件夹，一点用�
 
 light 命令可以用来设置亮度。在 su 下，使用 light -S 10 即可。
 而调节音量可以使用alsamixer/pavucontrol
+
+24年更新
+现在不是linux小白了（相对）
+
+auto.sh 的启动，使用crontab -e就好了
